@@ -15,6 +15,7 @@ It is mainly made using the [PyQt5](https://pypi.org/project/PyQt5/) library in 
 
 
 ![google_prew](images/preview_google.png)
+![github_prew](images/preview_github.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
