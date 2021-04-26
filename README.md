@@ -1,6 +1,6 @@
 # Unicorn Browser
 
-**Google Chrome exusting your RAM ?? Is Google tracking Your Online Activity ? , This is the thing for you**
+**Google Chrome exausting your RAM ?? Is Google tracking Your Online Activity ? , This is the thing for you**
 ----------------------------
 - ## Installation and Usage
     clone the repository and in the same directory execute the following command inside your terminal or command prompt
